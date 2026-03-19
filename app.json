@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "MídiaOn Login",
+    "slug": "expo-login-midiaon",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "edgeToEdgeEnabled": true,
+      "package": "com.luispaulolpsn.expologinmidiaon"
+    },
+    "plugins": [
+      "expo-sqlite"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "f9cb63e6-9d69-477b-8658-2c0e69002582"
+      }
+    }
+  }
+}
